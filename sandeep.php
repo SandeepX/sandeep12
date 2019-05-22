@@ -6,6 +6,9 @@ if(1==1){
 	}
 	else{
 		echo"ohh no";
-	
+	echo"hello";
+
+
+	echo"oooooooooooooooooooooooooo";
 }
 ?>
